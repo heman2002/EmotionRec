@@ -1,20 +1,20 @@
 # EmotionRec
-About Project:
+## About Project:
 The project emotion recognition is built to predict the emotions of people real time.
 
-Dataset:
+## Dataset:
 Kaggle Emotion Recogntion dataset, kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge
 
-Libraries used:
+## Libraries used:
 OpenCV: Primarily used for performing image processing and face detection
 Keras: Deep learning CNNs were built using keras with tensorflow as backend 
 Flask: The api was built using it.
 
-Api end points:
+## Api end points:
 
 1.'/emotion'
 
-Functions:
+### Functions:
 
 upload()
 Reading the video and calling process_video() function
@@ -28,7 +28,7 @@ Predicting emotion
 
 2.'/model'
 
-Functions:
+### Functions:
 
 model()
 Calling functions to read dataset, split into training and testing, normalising and reshaping
