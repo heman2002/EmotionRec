@@ -12,7 +12,7 @@ Flask: The api was built using it.
 
 Api end points:
 
-'/emotion'
+1.'/emotion'
 
 Functions:
 
@@ -26,7 +26,7 @@ For all frames a series of image processing steps are performed , i.e., Resizing
 Loading model
 Predicting emotion
 
-'/model'
+2.'/model'
 
 Functions:
 
