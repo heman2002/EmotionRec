@@ -12,9 +12,9 @@ Flask: The api was built using it.
 
 ## Api end points:
 
-1.'/emotion'
+### 1.'/emotion'
 
-### Functions:
+#### Functions:
 
 upload()
 Reading the video and calling process_video() function
@@ -26,9 +26,9 @@ For all frames a series of image processing steps are performed , i.e., Resizing
 Loading model
 Predicting emotion
 
-2.'/model'
+### 2.'/model'
 
-### Functions:
+#### Functions:
 
 model()
 Calling functions to read dataset, split into training and testing, normalising and reshaping
