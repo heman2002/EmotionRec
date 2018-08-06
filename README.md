@@ -3,7 +3,7 @@ About Project:
 The project emotion recognition is built to predict the emotions of people real time.
 
 Dataset:
-Kaggle Emotion Recogntion dataset
+Kaggle Emotion Recogntion dataset, kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge
 
 Libraries used:
 OpenCV: Primarily used for performing image processing and face detection
